@@ -5,6 +5,9 @@
 <a href="mailto:chevybot123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/359794704847601674"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Kiyomi#9081" ></a>
 
+## ❌ Description
+Basically fakes discord pings/calls in game to troll other players.
+
 ## 🔨 Languages Used
 ![LUA](https://custom-icon-badges.herokuapp.com/badge/Lua-black.svg?logo=lua&logoColor=blue)
 
@@ -17,4 +20,4 @@ __SimpleConfigurations__ = {
 That Simple.
 
 ## ❌ Requirments
-**N/A**
+- N/A
