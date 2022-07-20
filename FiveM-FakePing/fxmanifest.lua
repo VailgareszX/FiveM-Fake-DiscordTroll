@@ -1,5 +1,6 @@
-
-fx_version 'bodacious'
-games {'gta5'}
-client_script '[Client]/*.lua'
-server_script '[Server]/*.lua'
+author 'K3YOMI@Github'
+description '[K3YOMI] Simple troll discord noise effects to troll your players'
+game 'common'
+fx_version 'adamant'
+server_scripts {'Server/*.*'}
+client_scripts {'Client/*.*'}
