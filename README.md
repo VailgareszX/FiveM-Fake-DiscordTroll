@@ -6,7 +6,7 @@
 <a href="https://discordapp.com/users/359794704847601674"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Kiyomi#9081" ></a>
 
 ## ❌ Description
-Basically fakes discord pings/calls in game to troll other players.\
+Basically fakes discord pings/calls in game to troll other players.
 ### Commands
 - fakeping_player [ID]
 - fakecall_player [ID]
